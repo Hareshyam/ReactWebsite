@@ -1,0 +1,120 @@
+*{
+   margin:0px;
+   padding:0px;
+}
+.main-div{
+   background-image:url('image/bg.jpg');
+   height:100%;
+   width:100%;
+   background-repeat:no-repeat;
+   background-size: cover;
+}
+
+.nav-bg{
+  background: rgba(0,0,0,0.1);
+}
+
+.navbar-nav{
+   margin-left: auto;
+   }
+
+.navbar a{
+   font-size:30px;
+}
+.navbar-nav a{
+   font-size:20px;
+}
+
+.nav_link{
+   border-bottom: 1.90px solid white;
+}
+
+.navbar-brand .logo{
+   height:50px;
+   width: 200px;
+   border-top-right-radius: 50px;
+   border-bottom-left-radius: 50px;
+}
+
+.form{
+   background: rgba(0,0,0,0.5);
+   border-radius: 10px;
+}
+
+ .form-label{
+   font-size: 20px;
+} 
+
+span{
+   color:aqua;
+}
+
+.btn-div .btn{
+   height: 50px;
+   width: 150px;
+   font-size: 18px;
+   border-radius: 50px;
+   line-height: 35px;
+   border: 2px solid whitesmoke;
+   text-decoration: none;
+}
+
+
+.form-control{
+   height: 50px;
+}
+
+.txt{
+   height: 100px;
+}
+
+
+
+.img-div .img-fluid{
+   height: 400px;
+   width: 650px;
+   border-radius: 5px;
+}
+
+
+
+/* <<<<<<<Service>>>>>>>*/
+
+.card {
+   background-color: rgba(0,0,0,0.5);
+   color:wheat;
+}
+
+.btn-p .btn{
+   height: 40px;
+   width: 100px;
+   color: white;
+
+}
+
+.btn-p .btn:hover{
+   color:black;
+   background: blanchedalmond;
+}
+
+.img-fluid{
+   width: 100%;
+   height: 30vh;
+}
+
+.img-fluid:hover{
+   transform: scale(1.01,1.01);
+}
+
+
+/* <<<<<<<Contact>>>>>>>*/
+
+.my-auto .contact-img{
+   height: 400px;
+   width: 600px;
+   border-radius: 50%;
+}
+
+
+/* <<<<<<<Footer>>>>>>>*/
+
